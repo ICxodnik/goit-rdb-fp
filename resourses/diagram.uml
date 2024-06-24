@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>25590c8a-313d-42a2-b2df-15d705fafc2d.TABLE:pandemic.infectious_cases</OriginalElement>
+  <nodes>
+    <node x="-72.5" y="-164.0">25590c8a-313d-42a2-b2df-15d705fafc2d.TABLE:pandemic.region</node>
+    <node x="-107.0" y="48.0">25590c8a-313d-42a2-b2df-15d705fafc2d.TABLE:pandemic.infectious_cases</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="25590c8a-313d-42a2-b2df-15d705fafc2d.TABLE:pandemic.infectious_cases" target="25590c8a-313d-42a2-b2df-15d705fafc2d.TABLE:pandemic.region" relationship="REFERENCES">
+      <point x="0.0" y="-164.0" />
+      <point x="0.0" y="56.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="1.0136568438891205" showDependencies="false" x="38.187826405400756" y="92.49065100628394" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Columns</Category>
+    <Category>Comments</Category>
+    <Category>Key columns</Category>
+    <Category>Virtual foreign keys</Category>
+  </Categories>
+</Diagram>
+
